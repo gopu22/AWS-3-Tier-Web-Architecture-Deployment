@@ -70,4 +70,4 @@ You should now have your external load balancer and autoscaling group configured
 <br>
 <br>
 <br>
-Congrats! you've Completed the 3 Tier Web Architecture Application Deployment Successfully!.
+Congrats!, you've Completed the 3 Tier Web Architecture Application Deployment Successfully!.
